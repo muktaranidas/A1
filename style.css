@@ -144,6 +144,7 @@ h2{
     margin-bottom: 100px;
     margin-left: 12%;
     margin-right: 12%;
+    font-size: 0;
     
     
 }
@@ -195,7 +196,7 @@ h3{
 }
 .their-lives{
     
-        font-size: 35px;
+        font-size: 25px;
         
         margin-top: 40px;
         margin-bottom: 20px;
@@ -203,10 +204,22 @@ h3{
 
 
 }
+.half-width-2{
+    
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    margin-left: -40px;
+    height: 260px;
+    
+    
+}
 .their-lives-p-1{
     color: gray;
     font-size: 14px;
     margin-bottom: 15px;
+    
+    
 }
 .their-lives-p-2{
     color: gray;
@@ -218,7 +231,11 @@ h3{
 
 }
 #img-d6{
-    width: 100%;
+    width: 90%;
+    height: auto;
+    
+    
+    
 }
 
 .tomato-color{
