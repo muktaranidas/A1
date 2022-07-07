@@ -110,6 +110,16 @@ h2{
     color: gray;
     font-size: 12px;
 }
+#other-ammount{
+    width: 50%;
+    display: block;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    background-color: white;
+    
+}
 #hr-style{
     text-align: center;
     margin-bottom: 20px;
@@ -179,7 +189,7 @@ h3{
 }
 
 .half-width{
-    width: 50%;
+    
     padding-left:2%;
     
 }
@@ -208,8 +218,7 @@ h3{
 
 }
 #img-d6{
-    height: 300px;
-    width: 300px;
+    width: 100%;
 }
 
 .tomato-color{
@@ -230,13 +239,17 @@ h3{
 footer{
     text-align: center;
     background-color: black;
-    height: 120px;
+    height: 128px;
+    
 
     
 }
 #footer-h2{
     color: tomato;
     padding-top: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 13px;
+    
     
 
 }
@@ -245,6 +258,7 @@ footer{
     color: white;
     font-size: 10px;
     margin-bottom: 0;
+    
 
 }
 .div1{
